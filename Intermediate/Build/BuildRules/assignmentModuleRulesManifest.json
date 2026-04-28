@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"F:\\unreal\\assignment\\Source\\assignment\\assignment.Build.cs",
+		"F:\\unreal\\assignment\\Source\\assignment.Target.cs",
+		"F:\\unreal\\assignment\\Source\\assignmentEditor.Target.cs"
+	],
+	"EngineVersion": "5.7.4"
+}
